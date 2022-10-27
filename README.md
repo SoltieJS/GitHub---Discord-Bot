@@ -1,5 +1,5 @@
 # Soltie GitHub Discord Bot.
-+ My (Soltie) Discord Bot just for GITHUB, this isn't my real bot and probabbly i will not add commits in this bot.
++ My (Soltie) Discord Bot just for GITHUB, this is not my real bot and I probably won't add commits to this bot.
 
 ## Pré Requisitos
 + **!!!** Esteja utlizando o NodeJS V16.11.0! 
